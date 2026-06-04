@@ -1,0 +1,91 @@
+{
+  "name": "Scotty Pumpkin",
+  "symbol": "SPUMP",
+  "description": "Scotty Pumpkin is a Solana-based Web3 ecosystem for digital and physical art, luxury fashion, jewelry, and creative accessories. SPUMP is the official SPL utility token of the Scotty Pumpkin ecosystem, used for payments, creator shops, rewards, and community programs. A 1% ecosystem transaction fee applies to all SPUMP transactions executed through the Scotty Pumpkin platform and affiliated off-DEX settlement flows. Decentralized exchange (DEX) trading remains unrestricted at the protocol level. ",
+  "image": "https://bafybeidhnqjya66pnvs7ngsnzdgsn24cxnijh7sc5nfd5yth2b2ptzukeq.ipfs.w3s.link/ScottyPumpkinEdited.png",
+  "external_url": "https://scottypumpkin.com",
+  "seller_fee_basis_points": 100,
+  "attributes": [
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL (Solana)"
+    },
+
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+
+    {
+      "trait_type": "Supply Model",
+      "value": "Capped"
+    },
+
+    {
+      "trait_type": "DEX Trading",
+      "value": "Unrestricted (protocol-level)"
+    },
+
+    {
+      "trait_type": "Ecosystem Fee",
+      "value": "1% (platform & off-DEX settlements)"
+    },
+
+    {
+      "trait_type": "Bond Allocation",
+      "value": "60%"
+    },
+
+    {
+      "trait_type": "Reserve Fund",
+      "value": "10%"
+    },
+
+    {
+      "trait_type": "Liquidity Buffer",
+      "value": "10%"
+    },
+
+    {
+      "trait_type": "Ops & Dev",
+      "value": "10%"
+    },
+
+    {
+      "trait_type": "Social Welfare",
+      "value": "10%"
+    },
+
+    {
+      "trait_type": "Revenue Model",
+      "value": "Government-Backed"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://bafybeidhnqjya66pnvs7ngsnzdgsn24cxnijh7sc5nfd5yth2b2ptzukeq.ipfs.w3s.link/ScottyPumpkinEdited.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "SCOTTY PUMPKIN TOKEN",
+    "family": "USFRANC Ecosystem"
+  },
+  "extensions": {
+    "website": "https://scottypumpkin.com",
+    "twitter": "https://x.com/SpumpCoin",
+    "telegram": "https://t.me/scottypumpkin",
+    "discord": "https://discord.com/users/spumpcoin",
+    "github": "https://github.com/spump-coin",
+    "redit": "https://www.reddit.com/user/SpumpCoin/",
+    "description": "SPUMP is owned and governed by Association Familiale Fin (AFFIN). SPUMP is a Solana-based utility token forming part of the USFRANC digital asset ecosystem. SPUMP may be traded freely on decentralized exchanges and is used within the Scotty Pumpkin platform for ecosystem services."
+  }
+}

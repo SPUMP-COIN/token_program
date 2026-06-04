@@ -1,0 +1,43 @@
+{
+  "name": "SCOTTY PUMPKIN",
+  "symbol": "SPUMP",
+  "description": "Scotty Pumpkin operates as an NFT-centric Web3 platform enabling artists, creators, and designers to develop and operate independent digital shops within the Scotty Pumpkin ecosystem. The platform supports the tokenization, listing, authentication, and sale of digital artworks, physical artworks, art crafts, and artist-related products, represented on-chain via NFTs.",
+  "image": "https://bafybeidhnqjya66pnvs7ngsnzdgsn24cxnijh7sc5nfd5yth2b2ptzukeq.ipfs.w3s.link/ScottyPumpkinEdited.png",
+  "external_url": "https://scottypumpkin.com",
+  "seller_fee_basis_points": 100,
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Supply Model",
+      "value": "Capped"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://bafybeidhnqjya66pnvs7ngsnzdgsn24cxnijh7sc5nfd5yth2b2ptzukeq.ipfs.w3s.link/ScottyPumpkinEdited.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "collection": {
+    "name": "SCOTTY PUMPKIN TOKEN",
+    "family": "USFRANC and USGOLD"
+  },
+  "extensions": {
+    "website": "https://scottypumpkin.com",
+    "twitter": "https://x.com/SpumpCoin",
+    "telegram": "https://t.me/scottypumpkin",
+    "discord": "https://discord.com/users/spumpcoin",
+    "github": "https://github.com/spump-coin",
+    "description": "SPUMP is a Solana-based utility token forming part of the USFRANC digital asset ecosystem, owned and governed by Association Family Fin (AFFIN)."
+  }
+}
