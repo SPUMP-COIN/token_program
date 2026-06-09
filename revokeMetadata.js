@@ -35,7 +35,7 @@ async function revokeMetadataAuthority() {
     }).sendAndConfirm(umi)
 
     console.log('---------------------------------------');
-    console.log('✅ SUCCESS! Metadata is now Immutable');
+    console.log('SUCCESS! Metadata is now Immutable');
     console.log('Token ID:', MINT_ADDRESS.toString());
     console.log('Action: Mutable Authority has been revoked.');
     console.log('---------------------------------------');
