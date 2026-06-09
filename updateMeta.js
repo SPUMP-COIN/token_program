@@ -21,7 +21,7 @@ const keypair = umi.eddsa.createKeypairFromSecretKey(new Uint8Array(secretKey))
 umi.use(keypairIdentity(keypair))
 
 // Your token mint address
-const mintAddress = publicKey('AKdCsQHoLKCpu3n2QcMS3BK8vQTWDcSDpujLr8UjeyNT')
+const mintAddress = publicKey('Token Mint Address')
 
 // Fetch existing token data
 const asset = await fetchDigitalAsset(umi, mintAddress)
